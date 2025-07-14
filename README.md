@@ -1,6 +1,6 @@
 # Full Linear Regression
 
-On my previous repo of simple-linear-regression, i implemented from scratch linear regression with only 1 parameter. This time i will try to apply that algorithm on a real dataset, preprocess the data and visualize it. I used the same resources from the last repo of linear regression to build this.
+On my previous repo of [simple-linear-regression](https://github.com/firhzmelo/simple-linear-regression), i implemented from scratch linear regression with only 1 parameter. This time i will try to apply that algorithm on a real dataset, preprocess the data and visualize it. I used the same resources from the last repo of linear regression to build this.
 
 On my first day of building the projecti couldn't make it work, since the weights ended up with inf or -inf, then i decided to include the Scikit Learn StandardScaler, this helped a lot, since i was working with really big numbers and the dot products had really high values
 
